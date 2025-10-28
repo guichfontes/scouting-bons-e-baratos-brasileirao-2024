@@ -6,7 +6,7 @@
 
 Este repositório contém o **notebook original (.ipynb)** e as **bases de dados (.xlsx)** utilizados na análise estatística e exploratória de jogadores do **Campeonato Brasileiro 2024**, com o objetivo de **identificar atletas de alto desempenho e baixo custo de mercado** — os chamados *bons e baratos*.
 
-Os dados foram coletados do [FBref](https://fbref.com) (métricas de desempenho) e [Transfermarkt](https://www.transfermarkt.com.br) (valores de mercado), e analisados com técnicas de **aprendizado não supervisionado (DBSCAN, IForest, LOF, One-Class SVM)** e **métricas customizadas de performance**.
+Utilizando [ScraperFC](https://scraperfc.readthedocs.io/en/latest/), os dados foram coletados do [FBref](https://fbref.com) (métricas de desempenho) e [Transfermarkt](https://www.transfermarkt.com.br) (valores de mercado), e analisados com técnicas de **aprendizado não supervisionado (DBSCAN, IForest, LOF, One-Class SVM)** e **métricas customizadas de performance**.
 
 ---
 
